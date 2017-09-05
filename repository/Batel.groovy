@@ -1,4 +1,4 @@
-localRepository('repository-key') {
+localRepository('reposisdfsdftory-key') {
   description "Public description"
   notes "Some internal notes"
   includesPattern "**/*" // default
